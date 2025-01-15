@@ -1,0 +1,22 @@
+{
+    "id": "minelight",
+    "name": "Minelight SMP",
+    "store": "https://minelight.fr",
+    "addresses": [
+        "play.minelight.fr"
+    ],
+    "primaryAddress": "play.minelight.fr",
+    "primaryColor": "#00ffe0",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival Multiplayer"
+    ]
+}
