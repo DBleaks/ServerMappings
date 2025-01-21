@@ -1,0 +1,35 @@
+{
+    "id": "cubeaventure",
+    "name": "CubeAventure",
+    "addresses": [
+        "play.cubeaventure.net"
+    ],
+    "primaryAddress": "play.cubeaventure.net",
+    "minecraftVersions": [
+        "1.21.4"
+      ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryColor": "#d001fc",
+    "secondaryColor": "#1bbde7",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Semi-modded",
+        "Faction"
+    ],
+    "website": "https://cubeaventure.net",
+    "store": "https://cubeaventure.net/shop",
+    "socials": {
+        "twitter": "CubeAventure",
+        "youtube": "CubeAventure",
+        "tiktok": "@cubeaventure",
+        "discord": "https://discord.gg/cubeaventure"
+    }
+}
